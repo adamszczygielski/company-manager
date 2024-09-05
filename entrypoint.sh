@@ -1,0 +1,1 @@
+java $JVM_OPTS $JAVA_OPTS -jar app.jar
